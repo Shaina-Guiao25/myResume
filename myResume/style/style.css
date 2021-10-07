@@ -42,7 +42,7 @@ li::before {content: ">"; color: red}
     height: 350px;
     color: white;
     text-align: center;
-    margin-top: -84.8em;
+    margin-top: -54.8em;
 
 }
 .down p{
@@ -58,9 +58,9 @@ li::before {content: ">"; color: red}
     border-top: 5px solid red;
     border-right: 5px solid red;
     height: 255px;
-    width: 30%;
+    width: 40%;
     margin-top: -16em;
-    margin-left: 30em;
+    margin-left: 20em;
 
 }
 .image{
