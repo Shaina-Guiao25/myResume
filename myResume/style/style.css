@@ -38,7 +38,7 @@ li::before {content: ">"; color: red}
     background-repeat: no-repeat;
     background-size: cover;
     width: 70%;
-    margin-left: 20.2em;
+    margin-left: 0.2em;
     height: 350px;
     color: white;
     text-align: center;
@@ -58,7 +58,7 @@ li::before {content: ">"; color: red}
     border-top: 5px solid red;
     border-right: 5px solid red;
     height: 255px;
-    width: 50%;
+    width: 80%;
     margin-top: -16em;
     margin-left: 20em;
 
