@@ -37,8 +37,8 @@ li::before {content: ">"; color: red}
     background-image: url('../images/resume.png');
     background-repeat: no-repeat;
     background-size: cover;
-    width: 60%;
-    margin-left: 30.2em;
+    width: 70%;
+    margin-left: 20.2em;
     height: 350px;
     color: white;
     text-align: center;
@@ -58,7 +58,7 @@ li::before {content: ">"; color: red}
     border-top: 5px solid red;
     border-right: 5px solid red;
     height: 255px;
-    width: 40%;
+    width: 50%;
     margin-top: -16em;
     margin-left: 20em;
 
